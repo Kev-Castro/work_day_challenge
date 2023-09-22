@@ -3,15 +3,15 @@
 
 ---
 
-## [Link to Website](https://kev-castro.github.io/javascript-quiz-challenge/)
+## [Link to Website](https://kev-castro.github.io/work_day_challenge/)
 
 ## Description
 
-- This Webpage allows those who visit the chance to test their knowledge of Javascript.
+- This Webpage allows those who visit the chance have a planner from 9am to 5pm.
 
-- This site was built to help me start a Webpage from scratch that includes HTML, CSS and Javascript, and I started nothing but an empty screen, it was a challenge but I believe it's good work.
+- This site was built to help me understand how to use jquery and how to minimize the coding lines using it.
 
-- This challenge helped me understand how to start writing code from scratch, how to apply different CSS styles, and Javascript and how to make them work together.
+- This challenge helped me understand how to look and research more about jquery and its functions, it was super helpful.
 
 ## Table of Contents
 
@@ -31,7 +31,7 @@
 
 - ***Below is an image of the finished site.***
 
-![Alt text](./images/Screenshot%202023-09-17%20215304.png)
+![Alt text](./images/Screenshot%202023-09-22%20174250.png)
 
 ## License
 
@@ -39,20 +39,20 @@ Refer to license in Repo.
 
 ## Features
 
-There is Navigation and Javascript properties on the Website.
+There is Javascript properties on the Website.
 
-By clicking on Start Quiz, it will load the questions about Javascript, and begin a countdown timer.
+By clicking on a text field next to a time you can type out a message for yourself, save it and look back at it when needed.
 
-- As you click on the choices provided it will do many things, to start, it will move to the next question.
+- As you click on the text field you can write yourself a message or reminder to look back at whenever you reload the page.
 
-- If you answer correctly *or not* it will move on to the next question.
+- Once you have written your message you can then press on the save button next to the text field and it will prompt a message saying it has been saved.
 
-- If you answer incorrectly then it will subtract 10 seconds from the time clock. 
+- If you reload the page you will see that the message or reminder you set for yourself is stll there! 
 
-- Once finished with the quiz or when time runs out you can see your final score and also be able to enter your initials.
+-Replace the text and save again and you will then see your new message you have entered!
 
-- At the end page you will see a Retake Quiz button that when clicked will take you back to the start page where you can retake the quiz all over again.
+- You are able to use this planner daily and change the messages or reminders as you please! 
 
 ---
-HAVE FUN TAKING THE QUIZ!
+Enjoy your New Planner!
 ---
